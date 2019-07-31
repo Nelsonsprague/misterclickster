@@ -1,0 +1,12 @@
+table{
+    background-color: rgb(43, 189, 226);
+    position: fixed;
+    text-align: center;
+    
+}
+
+tbody{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
